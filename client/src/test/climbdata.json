@@ -1,0 +1,12 @@
+{
+    "climbs": [
+        {
+            "id": "1",
+            "grade": "V8",
+            "attempts": "1",
+            "date": "12/2/23", 
+            "gym": "Blue Swan",
+            "note": "hard..."
+        }
+    ]
+}

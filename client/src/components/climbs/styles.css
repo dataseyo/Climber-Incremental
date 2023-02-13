@@ -1,0 +1,49 @@
+/* MAIN */
+.climbs__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* CLIMB STATS */
+.climb-stats__container {
+    display: flex;
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+/* CLIMB TABLE */
+
+table {
+    border: 1px solid #1f3e0f;
+    border-radius: 2px;
+}
+
+tbody {
+    border-bottom: 1px solid #1ba41b
+    ;
+}
+
+th {
+    border-bottom: 1px solid #1ba41b
+    ;
+    border-right: 1px solid #1ba41b    ;
+    padding: 2px 4px;
+    margin-right: 10px;
+}
+
+.table-row {
+}
+
+.table-row > tr {
+    margin-right: 50px;
+}
+
+.table-cell {
+    margin-right: 50px;
+
+}

@@ -1,0 +1,10 @@
+.avatar__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    outline: 1px solid #287217;
+    overflow: hidden;
+}

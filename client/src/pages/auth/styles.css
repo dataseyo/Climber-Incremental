@@ -1,0 +1,33 @@
+.auth__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.auth-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.auth-form > input {
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    width: clamp(200px, 30%, 300px);
+    height: clamp(15px, 20px, 40px);
+    outline: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.auth-toggle {
+
+}
+
+.auth-button {
+    width: clamp(100px, 20%, 150px);
+}
